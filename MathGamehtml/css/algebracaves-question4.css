@@ -1,0 +1,135 @@
+/* screen - algebracaves-question4 */
+
+.algebracaves-question4 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  width: 1440px;
+}
+
+.algebracaves-question4 .algebra-caves-question {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  width: 1440px;
+}
+
+.algebracaves-question4 .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-9-4@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 514px;
+  min-width: 1440px;
+  padding: 20.2px 16px;
+}
+
+.algebracaves-question4 .vector-9 {
+  cursor: pointer;
+  height: 93px;
+  width: 148px;
+}
+
+.algebracaves-question4 .algebra-cave-level-4 {
+  letter-spacing: 0;
+  margin-left: 113px;
+  margin-top: 3.0px;
+  min-height: 459px;
+}
+
+.algebracaves-question4 .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 146px;
+  min-width: 1216px;
+}
+
+.algebracaves-question4 .overlap-group1 {
+  background-color: var(--romance);
+  border-radius: 40px;
+  height: 213px;
+  position: relative;
+  width: 200px;
+}
+
+.algebracaves-question4 .x7x13 {
+  left: 30px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 121px;
+}
+
+.algebracaves-question4 .image-1 {
+  height: 114px;
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 138px;
+}
+
+.algebracaves-question4 .overlap-group3 {
+  background-color: var(--romance);
+  border-radius: 40px;
+  height: 213px;
+  margin-left: 139px;
+  position: relative;
+  width: 200px;
+}
+
+.algebracaves-question4 .x13x-6 {
+  left: 40px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 121px;
+}
+
+.algebracaves-question4 .overlap-group {
+  height: 219px;
+  margin-left: 139px;
+  position: relative;
+  width: 200px;
+}
+
+.algebracaves-question4 .rectangle-16 {
+  background-color: var(--romance);
+  border-radius: 40px;
+  height: 213px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 200px;
+}
+
+.algebracaves-question4 .x5x-7 {
+  left: 50px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 127px;
+}
+
+.algebracaves-question4 .overlap-group4 {
+  background-color: var(--romance);
+  border-radius: 40px;
+  height: 213px;
+  margin-left: 138px;
+  position: relative;
+  width: 200px;
+}
+
+.algebracaves-question4 .x7x25 {
+  left: 41px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 121px;
+}
+
+.algebracaves-question4 .image-17 {
+  height: 114px;
+  left: 31px;
+  object-fit: cover;
+  position: absolute;
+  top: 13px;
+  width: 138px;
+}

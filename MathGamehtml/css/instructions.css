@@ -1,0 +1,132 @@
+/* screen - instructions */
+
+.instructions {
+  align-items: center;
+  background-color: #c679f7;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  overflow: hidden;
+  padding: 36px 0;
+  width: 1440px;
+}
+
+.instructions .vector-container {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1378px;
+}
+
+.instructions .vector-10 {
+  cursor: pointer;
+  height: 93px;
+  width: 148px;
+}
+
+.instructions .vector-11 {
+  cursor: pointer;
+  height: 93px;
+  margin-left: 1082px;
+  width: 148px;
+}
+
+.instructions .overlap-group1 {
+  align-items: center;
+  background-image: url(../img/rectangle-8@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 87px;
+  min-height: 816px;
+  padding: 31px 50px;
+  width: 1448px;
+}
+
+.instructions .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/ellipse-3@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 219px;
+  justify-content: flex-end;
+  margin-right: 1.0px;
+  min-width: 219px;
+  padding: 44px 24px;
+}
+
+.instructions .chat-teardrop-dots {
+  align-items: flex-start;
+  display: flex;
+  height: 130px;
+  justify-content: flex-end;
+  min-width: 170px;
+  padding: 15.0px 19.8px;
+}
+
+.instructions .vector-container-1 {
+  height: 96px;
+  position: relative;
+  width: 125px;
+}
+
+.instructions .vector {
+  height: 1px;
+  left: 60px;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+
+.instructions .vector-1 {
+  height: 96px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 125px;
+}
+
+.instructions .vector-2 {
+  height: 14px;
+  left: 54px;
+  position: absolute;
+  top: 43px;
+  width: 17px;
+}
+
+.instructions .vector-3 {
+  height: 14px;
+  left: 22px;
+  position: absolute;
+  top: 43px;
+  width: 17px;
+}
+
+.instructions .vector-4 {
+  height: 14px;
+  left: 86px;
+  position: absolute;
+  top: 43px;
+  width: 17px;
+}
+
+.instructions .title {
+  color: #3f3f3f;
+  font-family: var(--font-family-moul_pali-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 49.0px;
+  min-height: 177px;
+  min-width: 759px;
+}
+
+.instructions .the-object-of-the-ga {
+  align-self: flex-start;
+  color: var(--masala);
+  font-family: var(--font-family-moul_pali-regular);
+  font-size: var(--font-size-xxxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 332px;
+  width: 1347px;
+}

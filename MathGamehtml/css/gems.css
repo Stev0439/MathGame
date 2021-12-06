@@ -1,0 +1,170 @@
+/* screen - gems */
+
+.gems {
+  align-items: center;
+  background-image: url(../img/gems@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  width: 1440px;
+}
+
+.gems .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/titlebanner@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 251px;
+  min-width: 1440px;
+  padding: 20px 16px;
+}
+
+.gems .vector-9 {
+  cursor: pointer;
+  height: 93px;
+  width: 148px;
+}
+
+.gems .your-gem-collection {
+  letter-spacing: 0;
+  margin-left: 167px;
+  margin-top: 14px;
+  min-height: 135px;
+  width: 801px;
+}
+
+.gems .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 36px;
+  min-width: 1344px;
+}
+
+.gems .overlap-group2 {
+  height: 714px;
+  position: relative;
+  width: 412px;
+}
+
+.gems .rectangle {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 339px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 412px;
+}
+
+.gems .rectangle-1 {
+  background-color: var(--white);
+  border-radius: 40px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 339px;
+  left: 0;
+  position: absolute;
+  top: 375px;
+  width: 412px;
+}
+
+.gems .name {
+  left: 131px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 251px;
+}
+
+.gems .rectangle-18 {
+  background-color: var(--romance);
+  border-radius: 40px;
+  height: 251px;
+  left: 68px;
+  position: absolute;
+  top: 0;
+  width: 280px;
+}
+
+.gems .image-18 {
+  cursor: pointer;
+  height: 166px;
+  left: 123px;
+  object-fit: cover;
+  position: absolute;
+  top: 38px;
+  width: 175px;
+}
+
+.gems .text-1 {
+  left: 76px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 295px;
+  width: 134px;
+}
+
+.gems .overlap-group {
+  height: 714px;
+  margin-left: 54px;
+  position: relative;
+  width: 412px;
+}
+
+.gems .rectangle-2 {
+  background-color: var(--romance);
+  border-radius: 40px;
+  height: 251px;
+  left: 66px;
+  position: absolute;
+  top: 12px;
+  width: 280px;
+}
+
+.gems .image-20 {
+  height: 181px;
+  left: 127px;
+  object-fit: cover;
+  position: absolute;
+  top: 48px;
+  width: 160px;
+}
+
+.gems .rhodonite {
+  left: 83px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 251px;
+}
+
+.gems .text-2 {
+  left: 83px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 295px;
+  width: 134px;
+}
+
+.gems .image-21 {
+  height: 144px;
+  left: 129px;
+  object-fit: cover;
+  position: absolute;
+  top: 77px;
+  width: 168px;
+}
+
+.gems .gold-nugget {
+  left: 66px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 236px;
+}
+
+.gems .text-3 {
+  left: 72px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 295px;
+  width: 134px;
+}

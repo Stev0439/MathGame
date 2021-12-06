@@ -1,0 +1,101 @@
+/* screen - algebracaves-correct */
+
+.algebracaves-correct {
+  align-items: flex-end;
+  background-image: url(../img/algebracaves-correct@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  width: 1440px;
+}
+
+.algebracaves-correct .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-9@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 544px;
+  padding: 20px 16px;
+  width: 1440px;
+}
+
+.algebracaves-correct .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 230px;
+  min-width: 1222px;
+}
+
+.algebracaves-correct .vector-9 {
+  cursor: pointer;
+  height: 93px;
+  width: 148px;
+}
+
+.algebracaves-correct .algebra-cave-level-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 61px;
+  min-height: 227px;
+  width: 1013px;
+}
+
+.algebracaves-correct .thats-correct-you-found-a-gem {
+  align-self: center;
+  letter-spacing: 0;
+  margin-right: 1.0px;
+  margin-top: 40px;
+  min-height: 132px;
+  min-width: 1113px;
+}
+
+.algebracaves-correct .overlap-group2 {
+  align-items: flex-start;
+  align-self: center;
+  background-color: var(--romance);
+  border-radius: 40px;
+  display: flex;
+  height: 251px;
+  justify-content: flex-end;
+  margin-right: 102.0px;
+  margin-top: 62px;
+  min-width: 280px;
+  padding: 38px 50px;
+}
+
+.algebracaves-correct .image-18 {
+  height: 166px;
+  object-fit: cover;
+  width: 175px;
+}
+
+.algebracaves-correct .overlap-group1 {
+  border-radius: 30px;
+  height: 88px;
+  margin-right: 47px;
+  margin-top: 32px;
+  position: relative;
+  width: 310px;
+}
+
+.algebracaves-correct .rectangle-4 {
+  background-color: var(--gallery);
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 310px;
+}
+
+.algebracaves-correct .continue {
+  left: 52px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 0;
+}

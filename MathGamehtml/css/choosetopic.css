@@ -1,0 +1,116 @@
+/* screen - choosetopic */
+
+.choosetopic {
+  align-items: flex-start;
+  display: flex;
+  min-width: 1440px;
+}
+
+.choosetopic .desktop-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  justify-content: center;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.choosetopic .overlap-group {
+  height: 1024px;
+  position: relative;
+  width: 1448px;
+}
+
+.choosetopic .rectangle-1 {
+  height: 1024px;
+  left: 4px;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.choosetopic .rectangle-4 {
+  height: 345px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1448px;
+}
+
+.choosetopic .choose-a-topic {
+  color: var(--masala);
+  font-family: var(--font-family-moul_pali-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 385px;
+  letter-spacing: 0;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 90px;
+}
+
+.choosetopic .rectangle-5 {
+  background-color: var(--gallery);
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 148px;
+  left: 320px;
+  position: absolute;
+  top: 419px;
+  width: 808px;
+}
+
+.choosetopic .rectangle-6 {
+  background-color: var(--gallery);
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 148px;
+  left: 320px;
+  position: absolute;
+  top: 603px;
+  width: 808px;
+}
+
+.choosetopic .rectangle-7 {
+  background-color: var(--gallery);
+  border-radius: 30px;
+  box-shadow: 0px 4px 4px #00000040;
+  cursor: pointer;
+  height: 148px;
+  left: 320px;
+  position: absolute;
+  top: 787px;
+  width: 808px;
+}
+
+.choosetopic .algebra {
+  left: 607px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 434px;
+}
+
+.choosetopic .discrete {
+  left: 603px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 802px;
+}
+
+.choosetopic .calculus {
+  left: 599px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 618px;
+}
+
+.choosetopic .vector-9 {
+  cursor: pointer;
+  height: 93px;
+  left: 33px;
+  position: absolute;
+  top: 36px;
+  width: 148px;
+}

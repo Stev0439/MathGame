@@ -1,0 +1,73 @@
+:root { 
+  --black: #000000;
+  --black-2: #00000040;
+  --gallery: #efeded;
+  --masala: #403f3f;
+  --romance: #fffefe;
+  --white: #ffffff;
+ 
+  --font-size-l: 96px;
+  --font-size-m: 80px;
+  --font-size-s: 72px;
+  --font-size-xl: 288px;
+  --font-size-xs: 50px;
+  --font-size-xxs: 48px;
+  --font-size-xxxs: 45px;
+ 
+  --font-family-moul_pali-regular: "Moul Pali-Regular", Helvetica;
+}
+.moulpali-regular-normal-black-50px {
+  color: var(--black);
+  font-family: var(--font-family-moul_pali-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.moulpali-regular-normal-masala-80px {
+  color: var(--masala);
+  font-family: var(--font-family-moul_pali-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.moulpali-regular-normal-masala-50px {
+  color: var(--masala);
+  font-family: var(--font-family-moul_pali-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.moulpali-regular-normal-masala-72px {
+  color: var(--masala);
+  font-family: var(--font-family-moul_pali-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.moulpali-regular-normal-masala-48px {
+  color: var(--masala);
+  font-family: var(--font-family-moul_pali-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.moulpali-regular-normal-black-288px {
+  color: var(--black-2);
+  font-family: var(--font-family-moul_pali-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.moulpali-regular-normal-masala-64px {
+  color: var(--masala);
+  font-family: var(--font-family-moul_pali-regular);
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+}
